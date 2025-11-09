@@ -1,6 +1,19 @@
-# 💫 About Me:
-👋 Hi, I’m Shivam Singh<br>I'm a Frontend-focused Full Stack Developer<br>Passionate about building clean, user-friendly web applications.<br>I love turning ideas into interactive, pixel-perfect interfaces.<br>💻 Currently exploring Blockchain and Smart Contracts with Solidity<br>Pursuing my BCA degree and in my 2nd year of college.<br>🎯 Always learning something new & improving my skills.<br>
+### Hey there 👋 I'm Shivam!
 
+I'm a **Full Stack Developer (MERN + Next.js)** who loves turning ideas into fast, scalable, and visually appealing digital experiences.  
+From **backend APIs** to **beautiful frontends with animations**, I enjoy every part of the development journey.
+
+💡 **What I use most:**
+React | Next.js | Node.js | Express | MongoDB | SQL | Docker | AWS | GSAP
+
+🛠️ I’ve built:
+- SaaS and Web Apps with clean architectures  
+- Animated interfaces powered by GSAP  
+- Scalable backend systems with Node.js & MongoDB
+
+💻 Currently exploring **Blockchain Development** and **Smart Contracts** with **Solidity**.  
+🎓 Pursuing my **BCA (2nd Year)** and constantly expanding my knowledge in web and web3 technologies.  
+🎯 Always learning, improving, and experimenting with new tools to build better digital experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bratt._rex)  
