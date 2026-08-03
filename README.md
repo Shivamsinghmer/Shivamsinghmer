@@ -12,7 +12,7 @@ React | Next.js | Node.js | Express | MongoDB | SQL | Docker | AWS | GSAP
 - Scalable backend systems with Node.js & MongoDB
 
 💻 Currently exploring **Blockchain Development** and **Smart Contracts** with **Solidity**.  
-🎓 Pursuing my **BCA (2nd Year)** and constantly expanding my knowledge in web and web3 technologies.  
+🎓 Pursuing my **BCA (3rd Year)** and constantly expanding my knowledge in web and web3 technologies.  
 🎯 Always learning, improving, and experimenting with new tools to build better digital experiences.
 
 ## 🌐 Socials:
